@@ -2,3 +2,7 @@
 var road = 1000
 var time = 60
 print("Скорость за одну минуту составляет: \(road/time) м/c")
+//The second example
+var num1 = Double(44)
+var num2 = Int(700)
+print("\((num1*1000)/(Double(num2/60))) м/с")
